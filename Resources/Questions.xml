@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GetRich>
+  <questions>
+    <q1>
+      At	any	one	time,	what	percentage	of	5	to	16	year	olds	in	the	UK	have	a	mental	health	problem?
+    <answers>
+      <cAnswer>C: 10%</cAnswer>
+      <wAnswer>A: 1%</wAnswer>
+      <wAnswer>B: 5%</wAnswer>
+      <wAnswer>C: 10%</wAnswer>
+      <wAnswer>D: 20%</wAnswer>   
+    </answers>
+      <info>
+        And	if	you	look	at	the	adult	population	this	figure	rises	to	1	in	4	or	25%.	It	has	been	estimated	that	by
+        2020	depression	will	be	second	only	to	chronic	heart	disease	as	an	international	health	burden.
+        In	2007	UNICEF	compared	children	and	young	people	across	18	European	countries	and	North
+        America	and	children	and	young	people	in	UK	came	bottom	of	the	table	for	wellbeing.
+      </info>
+    </q1>
+  </questions>
+</GetRich>

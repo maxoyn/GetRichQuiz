@@ -1,0 +1,14 @@
+C:\Users\HP Folio\source\repos\GetRich\GetRich\bin\Debug\GetRich.exe.config
+C:\Users\HP Folio\source\repos\GetRich\GetRich\bin\Debug\GetRich.exe
+C:\Users\HP Folio\source\repos\GetRich\GetRich\bin\Debug\GetRich.pdb
+C:\Users\HP Folio\source\repos\GetRich\GetRich\obj\Debug\GetRich.csprojResolveAssemblyReference.cache
+C:\Users\HP Folio\source\repos\GetRich\GetRich\obj\Debug\GetRich.csproj.CoreCompileInputs.cache
+C:\Users\HP Folio\source\repos\GetRich\GetRich\obj\Debug\GetRich.exe
+C:\Users\HP Folio\source\repos\GetRich\GetRich\obj\Debug\GetRich.pdb
+C:\Users\CH\source\repos\GetRich\GetRich\GetRich\bin\Debug\GetRich.exe.config
+C:\Users\CH\source\repos\GetRich\GetRich\GetRich\bin\Debug\GetRich.exe
+C:\Users\CH\source\repos\GetRich\GetRich\GetRich\bin\Debug\GetRich.pdb
+C:\Users\CH\source\repos\GetRich\GetRich\GetRich\obj\Debug\GetRich.csproj.CoreCompileInputs.cache
+C:\Users\CH\source\repos\GetRich\GetRich\GetRich\obj\Debug\GetRich.exe
+C:\Users\CH\source\repos\GetRich\GetRich\GetRich\obj\Debug\GetRich.pdb
+C:\Users\CH\source\repos\GetRich\GetRich\GetRich\obj\Debug\GetRich.csprojAssemblyReference.cache

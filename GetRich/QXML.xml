@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+  <root>
+    <question name="Question 1: At	any	one	time,	what	percentage	of	5	to	16	year	olds	in	the	UK	have	a	mental	health	problem?">
+      <answers>
+        <wAnswer>A: 1%  </wAnswer>
+        <wAnswer>B: 5%  </wAnswer>
+        <wAnswer>C: 10% </wAnswer>
+        <wAnswer>D: 20% </wAnswer>
+      </answers>
+      <cAnswer>C</cAnswer>
+      <info>
+        And	if	you	look	at	the	adult	population	this	figure	rises	to	1	in	4	or	25%.	It	has	been	estimated	that	by
+        2020	depression	will	be	second	only	to	chronic	heart	disease	as	an	international	health	burden.
+        In	2007	UNICEF	compared	children	and	young	people	across	18	European	countries	and	North
+        America	and	children	and	young	people	in	UK	came	bottom	of	the	table	for	wellbeing.
+      </info>
+    </question>
+    <question name="Question 2: How	many	teenagers	are	believed	to	self-harm	in	the	UK?">
+      <answers>
+        <wAnswer>A: 1 in 15 </wAnswer>
+        <wAnswer>B: 1 in 30  </wAnswer>
+        <wAnswer>C: 1 in 50 </wAnswer>
+        <wAnswer>D: 1 in 100 </wAnswer>
+      </answers>
+      <cAnswer>A</cAnswer>
+      <info>
+        Reports	show	that	1	in	15	teenagers	self	harm	but	the	true	figure	could	be	even	higher.	Around
+        19,000	young	people	are	admitted	to	hospital	for	deliberate	self	harm	each	year.
+        Self	harm	is	a	sign	of	emotional	distress.	Cutting	is	one	form	of	self	harm.	Others	include	burning,
+        hitting,	bruising	or	poisoning.
+        Self	harm	is	more	common	than	most	people	realise	and	it	affects	boys	as	well	as	girls.	Young	people
+        who	self	harm	experience	a	lot	of	stigma.	They	may	be	bullied	as	a	result	which	will	make	them	feel
+        even	worse.	They	are	also	more	likely	to	tell	a	friend	than	anyone	else	so	it	is	important	to	support
+        your	friends	and	be	there	for	them.	If	a	friend	tells	you	they	self	harm,	don’t	be	afraid;	the	best	thing
+        you	can	do	is	listen.	If	you	feel	worried	or	feel	out	of	your	depth	ask	someone	you	trust	or	a
+        professional	for	advice.
+      </info>
+    </question>
+    <question name="Question 3: Which	of	these	symptoms	can	happen	if	you’re	depressed?">
+      <answers>
+        <wAnswer>A: Don’t	feel	hungry </wAnswer>
+        <wAnswer>B: Hungry	all	the	time </wAnswer>
+        <wAnswer>C: Always	tired </wAnswer>
+        <wAnswer>D: Any	of	above </wAnswer>
+      </answers>
+      <cAnswer>D</cAnswer>
+      <info>
+        No info on that. XD
+      </info>
+    </question>
+    <question name="Question 4: Which	of	these	are	possible	triggers	for	a	psychotic	episode?">
+      <answers>
+        <wAnswer>A: Taking drugs  </wAnswer>
+        <wAnswer>B: Going to school  </wAnswer>
+        <wAnswer>C: Going shopping </wAnswer>
+        <wAnswer>D: All of the above </wAnswer>
+      </answers>
+      <cAnswer>A</cAnswer>
+      <info>
+        Recent	research	claimed	that	people	using	cannabis	are	40%	more	likely	than	non-users	to	suffer	a
+        psychotic	illness	such	as	schizophrenia.	The	study	found	the	most	frequent	users	of	cannabis	have
+        twice	the	risk	of	non-users	of	developing	psychotic	symptoms,	such	as	hallucinations	and	delusions.
+        They	said	that	people	with	family	history	of	mental	illness	or	who	already	had	mental	health	issues
+        should	avoid	using	cannabis.
+      </info>
+    </question>
+    <question name="Question 5: How	many	murders	are	committed	in	England	&amp;	Wales	in	one	year	by	people	judged	to	be	mentally ill?">
+      <answers>
+        <wAnswer>A: 1555  </wAnswer>
+        <wAnswer>B: 555  </wAnswer>
+        <wAnswer>C: 55 </wAnswer>
+        <wAnswer>D: 5 </wAnswer>
+      </answers>
+      <cAnswer>C</cAnswer>
+      <info>
+        Violence	can	be	a	feature	of	mental	illness	and	every	year	in	England	and	Wales	on	average	55	people
+        are	killed	by	persons	judged	to	be	mentally	ill.
+        But	you	are	70	times	more	likely	to	be	killed	on	the	roads.	Indeed	the	risk	of	being	killed	by	a	mentally
+        ill	person	is	about	the	same	as	the	risk	of	being	struck	by	lightning.	People	with	mental	illness	are	far
+        more	likely	to	hurt	themselves	than	someone	else.
+        Of	the	55	people	killed	in	a	year	by	people	who	were	mentally	ill	only	5	are	likely	to	be	strangers.	The
+        victims	are	usually	people	known	to	the	person.
+        You	are	9	times	more	likely	to	be	killed	by	someone	under	the	influence	of	drugs	or	drink	-	You	are	at
+        far	greater	risk	from	heavy	drinkers	than	they	are	from	the	mentally	ill.		Yet	our	fear	of	violence	from
+        the	mentally	ill	is	disproportionate	to	the	actual	risk.
+        Why?	The	media	have	in	the	past	been	intent	on	stressing	the	dangers	posed	by	the	mentally	ill	with
+        sensationalist	headlines	like	‘mad	axe	man’	etc.	And	this	creates	a	vicious	circle	–	as	people	become
+        more	fearful	so	those	with	mental	illness	experience	more	stigma	and	discrimination	adding	to	the
+        burden	they	already	experience	through	their	mental	health	condition.
+        What	can	we	do?	Education	-	Get	the	facts	about	mental	health	issues	and	treat	those	experiencing
+        difficulties	with	compassion,	respect	and	support	not	hostility	and	fear.
+      </info>
+    </question>
+    <question name="Question 6: It	is	estimated	that	since	1985	suicide	attempts	by	young	men	have…">
+      <answers>
+        <wAnswer>A: Fallen by 17%  </wAnswer>
+        <wAnswer>B: Stayed the same  </wAnswer>
+        <wAnswer>C: Risen by 70% </wAnswer>
+        <wAnswer>D: Risen by 170% </wAnswer>
+      </answers>
+      <cAnswer>D</cAnswer>
+      <info>
+        Suicide	is	the	second	most	common	cause	of	death	among	people	under	35	and	accounts	for	1	in	5	of
+        all	deaths	of	young	people.
+      </info>
+    </question>
+    <question name="Question 7: Which	of	the	following	people	has	experienced	serious	mental	health	problems?">
+      <answers>
+        <wAnswer>A: J K Rowling </wAnswer>
+        <wAnswer>B: Catherine Tate  </wAnswer>
+        <wAnswer>C: Robbie Williams </wAnswer>
+        <wAnswer>D: All of the above </wAnswer>
+      </answers>
+      <cAnswer>D</cAnswer>
+      <info>
+        Many	high	profile	and	successful	figures	in	our	communities	and	in	the	news	have	mental	health
+        issues.	Others	include	Ruby	Wax,	Steven	Fry,	Winston	Churchill.
+      </info>
+    </question>
+    <question name="Question 8: Which	of	the	following	are	considered	to	be	real	medical	conditions?">
+      <answers>
+        <wAnswer>A: Diabetes  </wAnswer>
+        <wAnswer>B: Anxiety disorders  </wAnswer>
+        <wAnswer>C: High blood pressure </wAnswer>
+        <wAnswer>D: All of the above </wAnswer>
+      </answers>
+      <cAnswer>D</cAnswer>
+      <info>
+        Mental	health	issues	and	illnesses	are	just	as	real	as	physical	illnesses.	When	they	are	mild	you	will
+        often	get	better	on	your	own	the	way	you	might	from	a	cold	but	if	you	feel	low	for	more	than	2	or	3
+        weeks	and	the	way	you	feel	starts	affecting	the	rest	of	your	life	you	may	need	help.	And	with	the	right
+        help	you	can	make	a	full	recovery.
+      </info>
+    </question>
+  </root>
